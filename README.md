@@ -3,4 +3,4 @@ Explore minha página repleta de links agora está disponibilizada para qualquer
 Navegue por informações, descubra recursos valiosos e conecte-se com o mundo através de diversas plataformas linkadas. 
 Não hesite em explorar e aproveitar ao máximo esse repositório.
 
-<img src"https://raw.githubusercontent.com/henriquetourinho/perfil-com-redes-sociais/main/media/v1.webp">
+  <img src="https://raw.githubusercontent.com/henriquetourinho/perfil-com-redes-sociais/main/media/v1.webp">
